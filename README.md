@@ -1,6 +1,7 @@
 # Desafio Go Docker - FullCycle
 
 1 - Clone o projeto
+
 2 - execute o comnado de build
 ```
 docker build -t fullcycle .
